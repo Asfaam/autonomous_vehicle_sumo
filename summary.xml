@@ -1,0 +1,17 @@
+<summary>
+    <time>
+        <start>0.00</start>
+        <end>1000.00</end>
+        <step>1000</step>
+    </time>
+    <vehicles>
+        <departed>50</departed>
+        <arrived>45</arrived>
+        <running>5</running>
+        <waiting>0</waiting>
+    </vehicles>
+    <traffic>
+        <meanSpeed>12.45</meanSpeed>
+        <meanTravelTime>30.5</meanTravelTime>
+    </traffic>
+</summary>

@@ -1,0 +1,11 @@
+<network>
+    <nodes>
+        <node id="n1" x="0.0" y="0.0" type="priority"/>
+        <node id="n2" x="500.0" y="0.0" type="priority"/>
+        <node id="n3" x="1000.0" y="0.0" type="priority"/>
+    </nodes>
+    <edges>
+        <edge id="e1" from="n1" to="n2" priority="1" numLanes="1" speed="13.9"/>
+        <edge id="e2" from="n2" to="n3" priority="1" numLanes="1" speed="13.9"/>
+    </edges>
+</network>
